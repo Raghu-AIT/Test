@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <p>Hello Welcome to Plantinuum.</p>  
+      <p>Hello Welcome to Plantinuum</p>  
     </>
   )
 }
